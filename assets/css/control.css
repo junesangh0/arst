@@ -1,0 +1,38 @@
+@font-face {
+  font-family: 'MaplestoryBold';
+  src: url('../font/MaplestoryBold.ttf') format('truetype');
+
+}
+
+@font-face {
+  font-family: 'MaplestoryLight';
+  src: url('../font/MaplestoryLight.ttf') format('truetype');
+
+}
+
+
+
+.linecenter {
+
+    text-align: center;
+}
+
+
+.linecenter-expert {
+
+    color: black;
+}
+
+  /*  position: absolute;
+    top: 0;
+    right: -1px;
+    bottom: 0;
+    border: 0;
+    background: none;
+    font-size: 16px;
+    padding: 0 20px;
+    background: #7cc576;
+    color: #fff;
+    transition: 0.3s;
+    border-radius: 50px;
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);*/
